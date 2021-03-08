@@ -5,7 +5,7 @@ FCM Deployment Docs &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ems
 <br /><br />
 ---
 ## Contents
-- [FCM HELM CHART DETAILS](#1.-fcm-helm-chart-details)
+- [FCM HELM CHART DETAILS](##1.-fcm-helm-chart-details)
 - [Pre-requisites](#2.-pre-requisites)
 - [FCM Deployment Pipelines](#3.-fcm-deployment-pipelines)
 - [FCM Image and Container Registries](#4.-fcm-image-and-container-registries)
